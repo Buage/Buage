@@ -24,4 +24,4 @@ Hi! Im Buage, i like making websites, and im currently training at After Effects
   <img src="https://komarev.com/ghpvc/?username=Buage&label=Profile%20views&color=0e75b6&style=flat" alt="Buage" />
 </p>
 
-<p align="center">🔗 Mon site web : <a href="https://buage.dev/" target="_blank">buage.dev</a></p>
+<p align="center">🔗 My website : <a href="https://buage.dev/" target="_blank">buage.dev</a></p>
