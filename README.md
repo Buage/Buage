@@ -1,6 +1,6 @@
 ## Hello, world 👋
 
-Hi! Im Buage, i like making websites, and im currently training at After Effects to do motion design. I Created SelfHostList, a website listing over 90+ services you can self-host at home. I also created n20, i'ts a simple, privacy first and anonymous URL shortener. I also do some other random things, i dont know why btw👍
+Hi! Im Buage, a French dev 🇫🇷! i like making websites, and im currently training at After Effects to do motion design. I Created SelfHostList, a website listing over 90+ services you can self-host at home. I also created n20, i'ts a simple, privacy first and anonymous URL shortener. I also do some other random things, i dont know why btw👍
 
 ## My Skills
 
