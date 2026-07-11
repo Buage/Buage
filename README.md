@@ -1,6 +1,9 @@
 ## Hello, world 👋
 
-Hi! Im Buage! I am from Finland 🇫🇮, i like making websites, and im currently training at After Effects to do motion design. I Created SelfHostList, a website listing over 90+ services you can self-host at home. I also created n20, i'ts a simple, privacy first and anonymous URL shortener. I also do some other random things, i dont know why btw👍
+Hi! Im Buage! I do useless things, such as an AI aimbot for a roadblocks game named Rivals trained on 10k images (im a no life btw whoo!). I also do.. "motion" design..? like huh bro im so bad at after effects 😭
+
+ah also I sometimes do things that are not useless, such as n20, an url shortener, or selfhostlist, a selfhosted apps directory (i wasnt satisfied abt selfh.st)
+follow pls me..?
 
 ## My Skills
 
