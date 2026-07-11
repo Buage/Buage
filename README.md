@@ -3,7 +3,7 @@
 Hi! Im Buage! I do useless things, such as an AI aimbot for a roadblocks game named Rivals trained on 10k images (im a no life btw whoo!). I also do.. "motion" design..? like huh bro im so bad at after effects 😭
 
 ah also I sometimes do things that are not useless, such as n20, an url shortener, or selfhostlist, a selfhosted apps directory (i wasnt satisfied abt selfh.st)
-follow pls me..?
+so follow me pls..?
 
 ## My Skills
 
